@@ -68,7 +68,7 @@ void game() {
 int main()
 {
   // menu
-  cout<<"Welcome to the multiplication table, \nYou can also optionally play a guessing game for that just enter the \n \n \n1- to display the whole multiplication table (from 0 to 10); \n2- to display just the multiplication table of a single number. \n3- to play a guessing game"<<endl;
+  cout<<"Welcome to the multiplication table, \nYou can also optionally play a guessing game if you want. Make a choice between this numbers \n \n \n1- to display the whole multiplication table (from 0 to 10); \n2- to display just the multiplication table of a single number. \n3- to play a guessing game"<< endl;
   int choixUser;
   
   // choice   
